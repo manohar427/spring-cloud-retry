@@ -1,0 +1,8 @@
+---
+applications:
+- name: sample1
+  memory: 800M
+  instances: 1
+  path: target/sample1.jar
+  env:
+      SPRING_PROFILES_ACTIVE: cloud

@@ -1,0 +1,5 @@
+D:\Training\SpringBoot_ServiceRegistory\zuul_retry\zuul-retry-new\zuul-retryer\src\main\java\com\example\SelfController.java
+D:\Training\SpringBoot_ServiceRegistory\zuul_retry\zuul-retry-new\zuul-retryer\src\main\java\com\example\CustomRetryHandler.java
+D:\Training\SpringBoot_ServiceRegistory\zuul_retry\zuul-retry-new\zuul-retryer\src\main\java\com\example\CustomRestClient.java
+D:\Training\SpringBoot_ServiceRegistory\zuul_retry\zuul-retry-new\zuul-retryer\src\main\java\com\example\exclude\RibbonConfig.java
+D:\Training\SpringBoot_ServiceRegistory\zuul_retry\zuul-retry-new\zuul-retryer\src\main\java\com\example\ZuulRetryerApplication.java

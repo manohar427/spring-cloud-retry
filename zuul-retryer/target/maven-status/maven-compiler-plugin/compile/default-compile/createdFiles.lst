@@ -1,0 +1,6 @@
+com\example\CustomRestClient.class
+com\example\ZuulRetryerApplication$ServiceException.class
+com\example\CustomRetryHandler.class
+com\example\exclude\RibbonConfig.class
+com\example\SelfController.class
+com\example\ZuulRetryerApplication.class
